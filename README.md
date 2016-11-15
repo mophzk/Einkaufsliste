@@ -4,7 +4,7 @@
 ###**Voename:** Moritz
 **Adress:** A-Dürer-Str.11, 78136 Schonach
 
-![Profilbild](E:\FH\3 Semester\Software Engineering\Git\Einkaufsliste "IMG_2921.JPG")
+![Profilbild](https://github.com/mophzk/Einkaufsliste/blob/master/IMG_2921.JPG "IMG_2921.JPG")
 
 ##**Zeitraum**
 **1996-2000:** Grundschule Schonach
