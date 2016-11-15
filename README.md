@@ -2,7 +2,7 @@
 
 ###**Name:**Haas
 ###**Voename:**Moritz
-**Adress**
+**Adress:** A-Dürer-Str.11, 78136 Schonach
 
 ##**Zeitraum**
 **1996-2000:** Grundschule Schonach
