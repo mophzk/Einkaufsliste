@@ -4,6 +4,8 @@
 ###**Voename:** Moritz
 **Adress:** A-Dürer-Str.11, 78136 Schonach
 
+![Profilbild](C:\Users\Moritz\Pictures\iCloud Photos\Downloads "Profilbild")
+
 ##**Zeitraum**
 **1996-2000:** Grundschule Schonach
 
